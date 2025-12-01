@@ -1,0 +1,13 @@
+# Ignore dataset folder
+MushroomDataset/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env/
